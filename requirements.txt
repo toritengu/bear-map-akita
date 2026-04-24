@@ -1,5 +1,6 @@
 streamlit
 pandas
 geopy
-streamlit-folium
 folium
+streamlit-folium
+st-folium
